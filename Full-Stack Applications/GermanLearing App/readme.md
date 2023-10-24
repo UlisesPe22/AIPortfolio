@@ -1,5 +1,5 @@
 # German learning App
-This app is desinged for german students to adquiere new vocabulary. 
+This app is desinged for german students to gain new vocabulary. 
 
 ## Getting Started
 
