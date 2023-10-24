@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Willkommen beim Deutsch-Vokabularlernen</title>
+    <style>
+body {
+  text-align: center;
+  background-color: #f0ecec; 
+  color: #000000; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 36px; 
+  margin-top: 20px;
+}
+
+.button {
+  display: inline-block;
+  background-color: #D00; 
+  color: #FFD700; 
+  padding: 10px 20px;
+  margin: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 24px; 
+    margin-top: 10px;
+  }
+
+  .button {
+    font-size: 14px; /* Adjust button font size for mobile */
+  }
+}
+.welcome-text{
+  color: rgb(14, 2, 2);
+  font-weight: bold;
+  width: 40%;
+  display: flex;
+}
+    </style>
+</head>
+<body>
+    <h1>Willkommen beim Deutsch-Vokabularlernen</h1>
+    <div class="welcome-text"><h3>Willkommen!Our app offers a comprehensive way to practice adjectives, verbs, and nouns.
+      To get started on your journey to improving your German vocabulary, simply click the buttons below and begin your practice sessions.</h3></div>
+    <div>
+        <a href="/verb_review" class="button">Verb Review</a>
+        <a href="/adjective_review" class="button">Adjective Review</a>
+        <a href="/noun_review" class="button">Noun Review</a>
+    </div>
+
+</body>
+</html>
