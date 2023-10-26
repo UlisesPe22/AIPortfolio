@@ -14,7 +14,7 @@ You can reach out to me at:
 ## Projects
 
 Each project is organized within this repository and comes with a dedicated README file. These README files provide in-depth information about each project, including its purpose, technical details, and how to run or utilize the code.
-
+**note: in the "Machine Learnig" folder you will find two projects that I developed during the summer for learning porpuses. With these projects, I mainly learned how to use pandas and ML libraries."**
 Here's a brief overview of the types of projects you'll find here:
 
 ### Personal Projects
